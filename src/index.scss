@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=B612+Mono:wght@700&family=Bree+Serif&family=Oleo+Script+Swash+Caps&family=Shippori+Antique+B1&display=swap");
+
+.font-sans {
+  font-family: "Shippori Antique B1", sans-serif;
+}
+
+.font-serif {
+  font-family: "Bree Serif", serif;
+}
+
+.font-script {
+  font-family: "Oleo Script Swash Caps", cursive;
+}
+
+.font-mono {
+  font-family: "B612 Mono", monospace;
+}
